@@ -1,0 +1,9 @@
+# Optional deep-learning / explainability stack. Install only if needed.
+torch>=2.1
+# Install torch-geometric using the official wheel instructions for your OS/CUDA.
+torch-geometric
+xgboost>=2.0
+shap>=0.44
+optuna>=3.5
+mlflow>=2.10
+dvc>=3.40
