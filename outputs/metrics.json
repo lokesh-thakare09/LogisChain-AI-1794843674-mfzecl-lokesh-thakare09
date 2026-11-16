@@ -1,0 +1,11 @@
+{
+  "supplier_default_auc": 0.5884315906562847,
+  "supplier_default_brier": 0.3029835055319609,
+  "supplier_default_accuracy_at_0_5": 0.6333333333333333,
+  "n_train": 180,
+  "n_test": 60,
+  "data_type": "synthetic demonstration data",
+  "shipment_delay_auc": 0.4957331208865347,
+  "shipment_delay_brier": 0.2782053243729999,
+  "throughput_holdout_mape": 0.07513509630145541
+}
